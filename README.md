@@ -81,3 +81,4 @@ public interface DataDao {
 	public List<Article> getEntityListByDateRange(Date fromDate, Date toDate) throws Exception;
 	
 }
+/Comment/
